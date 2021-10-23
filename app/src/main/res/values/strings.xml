@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Url Shortening</string>
+    <string name="build">Build your brand\'s recognition and get d
+    detailed insights on how your links are performing</string>
+    <string name="advanced">Track how your links are performing across
+    the web with our advanced statistics dashboard</string>
+    <string name="brand">Boost your brand recognition with each click.
+    Generic links don\'t mean a thing. Branded links help instill confidence
+    in your content</string>
+    <string name="detailed">Gain insights into who is clicking your links.
+    Knowing when and where people engage with your content helps inform
+    better decisions</string>
+    <string name="fully">Improve brand awareness and content discoverability through
+    customizable links, supercharging audience engagement</string>
+</resources>
